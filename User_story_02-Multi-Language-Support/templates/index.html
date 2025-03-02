@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ get_locale() }}">
+<head>
+    <title>{{ _('Welcome') }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>{{ _('Hello, world!') }}</h1>
+    
+    <label for="language">{{ _('Choose Language') }}:</label>
+    <select id="language" onchange="changeLanguage(this.value)">
+        <option value="en">English</option>
+        <option value="hi">हिन्दी</option>
+        <option value="ta">தமிழ்</option>
+        <option value="te">తెలుగు</option>
+        <option value="bn">বাংলা</option>
+        <option value="mr">मराठी</option>
+    </select>
+
+    <script>
+        function changeLanguage(lang) {
+            window.location.href = "/change_language/" + lang;
+        }
+    </script>
+</body>
+</html>

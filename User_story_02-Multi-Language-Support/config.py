@@ -1,0 +1,3 @@
+SECRET_KEY = 'your_secret_key'
+BABEL_DEFAULT_LOCALE = 'en'
+BABEL_TRANSLATION_DIRECTORIES = 'translations'
