@@ -1,4 +1,9 @@
-flask
-flask_sqlalchemy
-flask_login
+Flask
+Flask_sqlalchemy
+Flask_login
 Werkzeug
+Flask-Babel
+flask-bcrypt
+flask-migrate
+Flask-WTF
+

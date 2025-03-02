@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Feedback</title>
+</head>
+<body>
+    <h1>Provide Your Feedback</h1>
+    <form method="POST">
+        <label for="username">Name:</label>
+        <input type="text" id="username" name="username" required>
+        
+        <label for="feedback">Feedback:</label>
+        <textarea id="feedback" name="feedback" required></textarea>
+        
+        <button type="submit">Submit</button>
+    </form>
+    <a href="{{ url_for('routes.home') }}">Back to Home</a>
+</body>
+</html>
