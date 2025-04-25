@@ -1,0 +1,161 @@
+ngo_id,role,description,location,date_posted,current_status
+ngo1,Teaching,Teaching volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-12-09,Open
+ngo1,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-11-27,Open
+ngo1,Field Work,Field Work volunteers needed in Punjab for upcoming projects.,Punjab,2024-10-11,Open
+ngo2,Awareness Campaigns,Awareness Campaigns volunteers needed in West Bengal for upcoming projects.,West Bengal,2025-03-15,Open
+ngo2,Field Work,Field Work volunteers needed in Kerala for upcoming projects.,Kerala,2025-03-30,Open
+ngo2,Medical Aid,Medical Aid volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-12-01,Closed
+ngo2,Field Work,Field Work volunteers needed in Kerala for upcoming projects.,Kerala,2025-01-29,Closed
+ngo3,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-31,Closed
+ngo3,Field Work,Field Work volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-07,Open
+ngo4,Distribution,Distribution volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-10-15,Closed
+ngo4,Distribution,Distribution volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-11-19,Closed
+ngo4,Medical Aid,Medical Aid volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-03-02,Closed
+ngo5,Field Work,Field Work volunteers needed in Punjab for upcoming projects.,Punjab,2024-12-11,Closed
+ngo5,Distribution,Distribution volunteers needed in Kerala for upcoming projects.,Kerala,2024-12-07,Closed
+ngo5,Awareness Campaigns,Awareness Campaigns volunteers needed in Kerala for upcoming projects.,Kerala,2024-11-17,Closed
+ngo6,Teaching,Teaching volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-12-14,Closed
+ngo6,Teaching,Teaching volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-12-22,Open
+ngo6,Medical Aid,Medical Aid volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-03-05,Closed
+ngo7,Field Work,Field Work volunteers needed in Delhi for upcoming projects.,Delhi,2025-01-28,Closed
+ngo7,Field Work,Field Work volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-02-07,Closed
+ngo7,Field Work,Field Work volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-02-06,Open
+ngo7,Teaching,Teaching volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-12-01,Closed
+ngo8,Field Work,Field Work volunteers needed in Kerala for upcoming projects.,Kerala,2025-03-24,Open
+ngo8,Field Work,Field Work volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-10-02,Open
+ngo9,Medical Aid,Medical Aid volunteers needed in Punjab for upcoming projects.,Punjab,2024-10-12,Open
+ngo9,Teaching,Teaching volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-10-23,Closed
+ngo10,Distribution,Distribution volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-02-22,Closed
+ngo10,Distribution,Distribution volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-03-23,Open
+ngo11,Medical Aid,Medical Aid volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-18,Open
+ngo11,Teaching,Teaching volunteers needed in Delhi for upcoming projects.,Delhi,2024-10-07,Open
+ngo11,Medical Aid,Medical Aid volunteers needed in West Bengal for upcoming projects.,West Bengal,2025-03-15,Open
+ngo11,Teaching,Teaching volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-12-01,Open
+ngo12,Teaching,Teaching volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-01-08,Open
+ngo12,Medical Aid,Medical Aid volunteers needed in Punjab for upcoming projects.,Punjab,2025-03-27,Open
+ngo12,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2025-03-09,Open
+ngo13,Medical Aid,Medical Aid volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-01-11,Closed
+ngo13,Field Work,Field Work volunteers needed in Punjab for upcoming projects.,Punjab,2024-10-24,Open
+ngo13,Awareness Campaigns,Awareness Campaigns volunteers needed in Kerala for upcoming projects.,Kerala,2025-02-25,Closed
+ngo14,Medical Aid,Medical Aid volunteers needed in Karnataka for upcoming projects.,Karnataka,2024-11-03,Open
+ngo14,Medical Aid,Medical Aid volunteers needed in Punjab for upcoming projects.,Punjab,2024-10-03,Open
+ngo14,Distribution,Distribution volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-12-28,Open
+ngo15,Awareness Campaigns,Awareness Campaigns volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-02-28,Open
+ngo15,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2024-10-27,Closed
+ngo15,Medical Aid,Medical Aid volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-10-31,Closed
+ngo15,Teaching,Teaching volunteers needed in Punjab for upcoming projects.,Punjab,2025-01-14,Closed
+ngo16,Field Work,Field Work volunteers needed in Kerala for upcoming projects.,Kerala,2024-10-28,Closed
+ngo16,Field Work,Field Work volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-12,Closed
+ngo16,Distribution,Distribution volunteers needed in Punjab for upcoming projects.,Punjab,2025-03-29,Open
+ngo17,Distribution,Distribution volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-01-10,Closed
+ngo17,Teaching,Teaching volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-20,Closed
+ngo17,Field Work,Field Work volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2025-03-01,Open
+ngo17,Distribution,Distribution volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-30,Closed
+ngo18,Field Work,Field Work volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2025-03-14,Open
+ngo18,Awareness Campaigns,Awareness Campaigns volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-12-08,Closed
+ngo18,Medical Aid,Medical Aid volunteers needed in Delhi for upcoming projects.,Delhi,2024-10-04,Closed
+ngo19,Medical Aid,Medical Aid volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-10-03,Closed
+ngo19,Distribution,Distribution volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-10-26,Open
+ngo20,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2024-12-08,Closed
+ngo20,Awareness Campaigns,Awareness Campaigns volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-02-07,Closed
+ngo20,Teaching,Teaching volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-10-23,Closed
+ngo20,Awareness Campaigns,Awareness Campaigns volunteers needed in Delhi for upcoming projects.,Delhi,2025-03-12,Closed
+ngo21,Medical Aid,Medical Aid volunteers needed in Delhi for upcoming projects.,Delhi,2025-02-25,Open
+ngo21,Teaching,Teaching volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-12-02,Open
+ngo22,Field Work,Field Work volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2025-02-16,Closed
+ngo22,Distribution,Distribution volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-10-08,Closed
+ngo22,Teaching,Teaching volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-12-14,Closed
+ngo23,Awareness Campaigns,Awareness Campaigns volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-10-12,Open
+ngo23,Teaching,Teaching volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-02-13,Closed
+ngo23,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-02-17,Open
+ngo23,Medical Aid,Medical Aid volunteers needed in Delhi for upcoming projects.,Delhi,2025-02-12,Closed
+ngo24,Distribution,Distribution volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-05,Open
+ngo24,Distribution,Distribution volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-30,Open
+ngo25,Medical Aid,Medical Aid volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-05,Open
+ngo25,Awareness Campaigns,Awareness Campaigns volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-12-12,Open
+ngo25,Awareness Campaigns,Awareness Campaigns volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-03-02,Open
+ngo25,Field Work,Field Work volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-12-27,Closed
+ngo26,Field Work,Field Work volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-02-04,Open
+ngo26,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-25,Closed
+ngo26,Teaching,Teaching volunteers needed in Delhi for upcoming projects.,Delhi,2025-03-14,Closed
+ngo27,Medical Aid,Medical Aid volunteers needed in Punjab for upcoming projects.,Punjab,2025-03-10,Closed
+ngo27,Field Work,Field Work volunteers needed in Delhi for upcoming projects.,Delhi,2025-03-20,Closed
+ngo28,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-20,Closed
+ngo28,Medical Aid,Medical Aid volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-25,Open
+ngo29,Awareness Campaigns,Awareness Campaigns volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-12-05,Closed
+ngo29,Awareness Campaigns,Awareness Campaigns volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-23,Open
+ngo29,Teaching,Teaching volunteers needed in Delhi for upcoming projects.,Delhi,2024-11-06,Closed
+ngo29,Medical Aid,Medical Aid volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-11-01,Closed
+ngo30,Medical Aid,Medical Aid volunteers needed in Punjab for upcoming projects.,Punjab,2024-12-30,Open
+ngo30,Awareness Campaigns,Awareness Campaigns volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-11-18,Closed
+ngo30,Teaching,Teaching volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-11-14,Closed
+ngo30,Field Work,Field Work volunteers needed in Gujarat for upcoming projects.,Gujarat,2024-10-31,Open
+ngo31,Awareness Campaigns,Awareness Campaigns volunteers needed in Kerala for upcoming projects.,Kerala,2025-02-21,Open
+ngo31,Teaching,Teaching volunteers needed in Punjab for upcoming projects.,Punjab,2025-01-17,Open
+ngo31,Medical Aid,Medical Aid volunteers needed in Karnataka for upcoming projects.,Karnataka,2024-10-03,Closed
+ngo31,Medical Aid,Medical Aid volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2025-02-02,Open
+ngo32,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2024-12-01,Closed
+ngo32,Awareness Campaigns,Awareness Campaigns volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-03-20,Closed
+ngo32,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-12-30,Closed
+ngo33,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2024-10-22,Open
+ngo33,Medical Aid,Medical Aid volunteers needed in West Bengal for upcoming projects.,West Bengal,2025-03-22,Closed
+ngo33,Medical Aid,Medical Aid volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-10-08,Open
+ngo34,Medical Aid,Medical Aid volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2025-02-12,Open
+ngo34,Distribution,Distribution volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-19,Closed
+ngo34,Awareness Campaigns,Awareness Campaigns volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-01-29,Open
+ngo34,Medical Aid,Medical Aid volunteers needed in Delhi for upcoming projects.,Delhi,2024-10-30,Closed
+ngo35,Awareness Campaigns,Awareness Campaigns volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-06,Open
+ngo35,Awareness Campaigns,Awareness Campaigns volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-02-13,Open
+ngo35,Awareness Campaigns,Awareness Campaigns volunteers needed in Karnataka for upcoming projects.,Karnataka,2024-12-13,Open
+ngo35,Awareness Campaigns,Awareness Campaigns volunteers needed in Kerala for upcoming projects.,Kerala,2025-02-12,Closed
+ngo36,Medical Aid,Medical Aid volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-12-20,Closed
+ngo36,Field Work,Field Work volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-02-17,Closed
+ngo36,Teaching,Teaching volunteers needed in Delhi for upcoming projects.,Delhi,2025-03-10,Open
+ngo36,Field Work,Field Work volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-01-24,Closed
+ngo37,Medical Aid,Medical Aid volunteers needed in Delhi for upcoming projects.,Delhi,2024-11-26,Closed
+ngo37,Teaching,Teaching volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-12-07,Open
+ngo37,Awareness Campaigns,Awareness Campaigns volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-13,Open
+ngo37,Awareness Campaigns,Awareness Campaigns volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2025-01-15,Closed
+ngo38,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2025-02-25,Open
+ngo38,Teaching,Teaching volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-11-08,Open
+ngo38,Teaching,Teaching volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-10-11,Closed
+ngo39,Awareness Campaigns,Awareness Campaigns volunteers needed in West Bengal for upcoming projects.,West Bengal,2025-03-06,Open
+ngo39,Field Work,Field Work volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-10-04,Closed
+ngo39,Distribution,Distribution volunteers needed in Punjab for upcoming projects.,Punjab,2025-03-26,Open
+ngo40,Teaching,Teaching volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-11-03,Open
+ngo40,Teaching,Teaching volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-02-17,Closed
+ngo40,Field Work,Field Work volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-30,Closed
+ngo40,Field Work,Field Work volunteers needed in Punjab for upcoming projects.,Punjab,2024-12-06,Closed
+ngo41,Distribution,Distribution volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-02,Closed
+ngo41,Teaching,Teaching volunteers needed in Punjab for upcoming projects.,Punjab,2025-02-11,Open
+ngo41,Awareness Campaigns,Awareness Campaigns volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-12-09,Closed
+ngo41,Teaching,Teaching volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-03,Open
+ngo42,Awareness Campaigns,Awareness Campaigns volunteers needed in Delhi for upcoming projects.,Delhi,2024-11-29,Closed
+ngo42,Field Work,Field Work volunteers needed in Karnataka for upcoming projects.,Karnataka,2024-11-09,Closed
+ngo43,Medical Aid,Medical Aid volunteers needed in Karnataka for upcoming projects.,Karnataka,2024-10-16,Open
+ngo43,Distribution,Distribution volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-01-25,Open
+ngo43,Teaching,Teaching volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-02,Open
+ngo43,Awareness Campaigns,Awareness Campaigns volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-02-19,Open
+ngo44,Awareness Campaigns,Awareness Campaigns volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-02-24,Open
+ngo44,Field Work,Field Work volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-03-10,Open
+ngo45,Teaching,Teaching volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-10-08,Closed
+ngo45,Field Work,Field Work volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-29,Open
+ngo45,Field Work,Field Work volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2025-02-05,Open
+ngo46,Distribution,Distribution volunteers needed in West Bengal for upcoming projects.,West Bengal,2025-01-30,Open
+ngo46,Distribution,Distribution volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-10-09,Closed
+ngo46,Teaching,Teaching volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-01-11,Closed
+ngo47,Medical Aid,Medical Aid volunteers needed in Gujarat for upcoming projects.,Gujarat,2025-02-09,Open
+ngo47,Teaching,Teaching volunteers needed in Kerala for upcoming projects.,Kerala,2024-12-07,Open
+ngo47,Teaching,Teaching volunteers needed in Karnataka for upcoming projects.,Karnataka,2025-03-23,Closed
+ngo47,Awareness Campaigns,Awareness Campaigns volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2025-03-19,Open
+ngo48,Field Work,Field Work volunteers needed in Kerala for upcoming projects.,Kerala,2025-01-25,Open
+ngo48,Medical Aid,Medical Aid volunteers needed in West Bengal for upcoming projects.,West Bengal,2024-11-10,Closed
+ngo48,Distribution,Distribution volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2024-11-15,Closed
+ngo48,Awareness Campaigns,Awareness Campaigns volunteers needed in Punjab for upcoming projects.,Punjab,2024-11-15,Closed
+ngo49,Distribution,Distribution volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-12-23,Open
+ngo49,Medical Aid,Medical Aid volunteers needed in Maharashtra for upcoming projects.,Maharashtra,2025-01-09,Closed
+ngo49,Distribution,Distribution volunteers needed in Tamil Nadu for upcoming projects.,Tamil Nadu,2024-11-30,Open
+ngo50,Awareness Campaigns,Awareness Campaigns volunteers needed in Delhi for upcoming projects.,Delhi,2024-10-24,Closed
+ngo50,Awareness Campaigns,Awareness Campaigns volunteers needed in Rajasthan for upcoming projects.,Rajasthan,2024-11-14,Open
+ngo50,Distribution,Distribution volunteers needed in Punjab for upcoming projects.,Punjab,2024-10-24,Closed
+ngo50,Teaching,Teaching volunteers needed in Uttar Pradesh for upcoming projects.,Uttar Pradesh,2024-11-15,Open

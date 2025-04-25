@@ -1,0 +1,57 @@
+username,password,role,location,ngo_id,name
+ngo1,pass123,Organisation,Maharashtra,ngo1,Helping Hands Foundation
+ngo2,pass123,Organisation,Maharashtra,ngo2,Hope for All
+ngo3,pass123,Organisation,Tamil Nadu,ngo3,United Relief Network
+ngo4,pass123,Organisation,Punjab,ngo4,Green Earth Initiative
+ngo5,pass123,Organisation,Tamil Nadu,ngo5,CareBridge Trust
+ngo6,pass123,Organisation,Uttar Pradesh,ngo6,Rise and Shine Foundation
+ngo7,pass123,Organisation,Rajasthan,ngo7,Global Peace Corps
+ngo8,pass123,Organisation,Kerala,ngo8,Heal the Nation
+ngo9,pass123,Organisation,Uttar Pradesh,ngo9,Visionary Change Society
+ngo10,pass123,Organisation,Maharashtra,ngo10,EmpowerHer Collective
+ngo11,pass123,Organisation,Rajasthan,ngo11,Aid and Thrive
+ngo12,pass123,Organisation,Uttar Pradesh,ngo12,Mission Smile
+ngo13,pass123,Organisation,West Bengal,ngo13,SafeHaven Outreach
+ngo14,pass123,Organisation,Rajasthan,ngo14,Tomorrow’s Promise
+ngo15,pass123,Organisation,West Bengal,ngo15,Roots of Change
+ngo16,pass123,Organisation,Gujarat,ngo16,Bright Future Society
+ngo17,pass123,Organisation,Kerala,ngo17,HumanKind India
+ngo18,pass123,Organisation,Maharashtra,ngo18,Project Sahayata
+ngo19,pass123,Organisation,Karnataka,ngo19,Voice of the Voiceless
+ngo20,pass123,Organisation,Uttar Pradesh,ngo20,Ujjwala Trust
+ngo21,pass123,Organisation,Maharashtra,ngo21,Grameen Sewa Mission
+ngo22,pass123,Organisation,Maharashtra,ngo22,RightPath Foundation
+ngo23,pass123,Organisation,Karnataka,ngo23,Saathi Care Network
+ngo24,pass123,Organisation,Gujarat,ngo24,Sarthak Society
+ancybjohn02,S@kl2014,Organisation,Uttar Pradesh,ancybjohn02,Youth for Change
+ngo26,pass123,Organisation,Delhi,ngo26,EcoHope India
+ngo27,pass123,Organisation,Tamil Nadu,ngo27,Arogya Jyoti Foundation
+ngo28,pass123,Organisation,West Bengal,ngo28,Helping Horizons
+ngo29,pass123,Organisation,Gujarat,ngo29,Janseva Mission
+ngo30,pass123,Organisation,Delhi,ngo30,LightHouse Relief
+ngo31,pass123,Organisation,Karnataka,ngo31,WomenRise Network
+ngo32,pass123,Organisation,Rajasthan,ngo32,Anugrah Foundation
+ngo33,pass123,Organisation,Karnataka,ngo33,Sevak Society
+ngo34,pass123,Organisation,Gujarat,ngo34,EarthKind Initiative
+ngo35,pass123,Organisation,Rajasthan,ngo35,Shakti Seva Sangh
+ngo36,pass123,Organisation,Uttar Pradesh,ngo36,Unity Welfare Trust
+ngo37,pass123,Organisation,Karnataka,ngo37,Disha for Development
+ngo38,pass123,Organisation,Tamil Nadu,ngo38,Neer Foundation
+ngo39,pass123,Organisation,Maharashtra,ngo39,ChangeMakers Collective
+ngo40,pass123,Organisation,Kerala,ngo40,Jeevan Jyoti Trust
+ngo41,pass123,Organisation,West Bengal,ngo41,Sukoon Society
+ngo42,pass123,Organisation,Karnataka,ngo42,Lotus Aid Network
+ngo43,pass123,Organisation,Rajasthan,ngo43,Care4U Foundation
+ngo44,pass123,Organisation,Maharashtra,ngo44,Nayi Disha Foundation
+ngo45,pass123,Organisation,Tamil Nadu,ngo45,Parivartan Path
+ngo46,pass123,Organisation,Kerala,ngo46,Harmony India Trust
+ngo47,pass123,Organisation,Karnataka,ngo47,Sahayak Mission
+ngo48,pass123,Organisation,Delhi,ngo48,Jeevika Project
+ngo49,pass123,Organisation,Delhi,ngo49,Akanksha Outreach
+Organisation50,pass123,Organisation,Punjab,Organisation50,Nav Chetna Society
+user1,pass456,Donor/Volunteer,Maharashtra,user1,Tejha
+user2,pass456,Donor/Volunteer,Tamil Nadu,user2,Airen
+user3,pass456,Donor/Volunteer,Punjab,user3,Eva
+user4,pass456,Donor/Volunteer,Karnataka,user4,Santhosh
+ancy_02,pass456,Donor/Volunteer,Kerala,user5,Ancy
+admin,admin@123,Admin,Global,admin,Admin

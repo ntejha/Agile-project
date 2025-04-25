@@ -1,0 +1,89 @@
+ngo_id,item,description,location,date_posted,current_status
+ngo1,Blankets,We are in urgent need of blankets for distribution in Maharashtra.,Maharashtra,2024-11-15,Closed
+ngo2,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Maharashtra.,Maharashtra,2025-04-10,Open
+ngo3,Medicines,We are in urgent need of medicines for distribution in Tamil Nadu.,Tamil Nadu,2024-12-25,Open
+ngo4,Clothes,We are in urgent need of clothes for distribution in Punjab.,Punjab,2024-08-19,Closed
+ngo4,Books,We are in urgent need of books for distribution in Punjab.,Punjab,2025-01-10,Closed
+ngo5,Food,We are in urgent need of food for distribution in Tamil Nadu.,Tamil Nadu,2025-02-15,Open
+ngo5,Food,We are in urgent need of food for distribution in Tamil Nadu.,Tamil Nadu,2025-02-01,Open
+ngo6,Clothes,We are in urgent need of clothes for distribution in Uttar Pradesh.,Uttar Pradesh,2025-03-05,Open
+ngo6,Shoes,We are in urgent need of shoes for distribution in Uttar Pradesh.,Uttar Pradesh,2024-12-10,Closed
+ngo7,Toys,We are in urgent need of toys for distribution in Rajasthan.,Rajasthan,2025-04-01,Open
+ngo7,Medicines,We are in urgent need of medicines for distribution in Rajasthan.,Rajasthan,2025-03-20,Open
+ngo8,Medicines,We are in urgent need of medicines for distribution in Kerala.,Kerala,2024-11-05,Closed
+ngo9,Toys,We are in urgent need of toys for distribution in Uttar Pradesh.,Uttar Pradesh,2025-04-03,Closed
+ngo10,Medicines,We are in urgent need of medicines for distribution in Maharashtra.,Maharashtra,2025-03-25,Open
+ngo11,Toys,We are in urgent need of toys for distribution in Rajasthan.,Rajasthan,2025-01-29,Closed
+ngo12,Blankets,We are in urgent need of blankets for distribution in Uttar Pradesh.,Uttar Pradesh,2025-03-18,Open
+ngo12,Food,We are in urgent need of food for distribution in Uttar Pradesh.,Uttar Pradesh,2024-10-01,Closed
+ngo13,Shoes,We are in urgent need of shoes for distribution in West Bengal.,West Bengal,2024-12-15,Closed
+ngo13,Books,We are in urgent need of books for distribution in West Bengal.,West Bengal,2025-02-23,Open
+ngo14,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Rajasthan.,Rajasthan,2024-07-12,Closed
+ngo14,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Rajasthan.,Rajasthan,2025-03-28,Open
+ngo15,Clothes,We are in urgent need of clothes for distribution in West Bengal.,West Bengal,2025-03-10,Closed
+ngo16,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Gujarat.,Gujarat,2024-11-01,Open
+ngo17,Food,We are in urgent need of food for distribution in Kerala.,Kerala,2024-09-22,Closed
+ngo18,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Maharashtra.,Maharashtra,2024-10-14,Closed
+ngo18,Books,We are in urgent need of books for distribution in Maharashtra.,Maharashtra,2025-03-10,Open
+ngo19,Blankets,We are in urgent need of blankets for distribution in Karnataka.,Karnataka,2025-01-18,Closed
+ngo20,Clothes,We are in urgent need of clothes for distribution in Uttar Pradesh.,Uttar Pradesh,2024-12-11,Closed
+ngo21,Blankets,We are in urgent need of blankets for distribution in Maharashtra.,Maharashtra,2024-06-20,Closed
+ngo21,Medicines,We are in urgent need of medicines for distribution in Maharashtra.,Maharashtra,2025-03-14,Open
+ngo22,Food,We are in urgent need of food for distribution in Maharashtra.,Maharashtra,2025-03-12,Open
+ngo22,Books,We are in urgent need of books for distribution in Maharashtra.,Maharashtra,2024-11-03,Closed
+ngo23,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Karnataka.,Karnataka,2024-08-05,Closed
+ngo23,Medicines,We are in urgent need of medicines for distribution in Karnataka.,Karnataka,2025-03-20,Open
+ancybjohn02,Shoes,We are in urgent need of shoes for distribution in Gujarat.,Gujarat,2025-03-29,Open
+ngo24,Shoes,We are in urgent need of shoes for distribution in Gujarat.,Gujarat,2024-07-30,Closed
+ngo25,Medicines,We are in urgent need of medicines for distribution in Uttar Pradesh.,Uttar Pradesh,2025-04-05,Open
+ngo26,Food,We are in urgent need of food for distribution in Delhi.,Delhi,2025-02-21,Open
+ngo27,Shoes,We are in urgent need of shoes for distribution in Tamil Nadu.,Tamil Nadu,2025-04-01,Open
+ngo27,Medicines,We are in urgent need of medicines for distribution in Tamil Nadu.,Tamil Nadu,2024-12-14,Closed
+ngo28,Shoes,We are in urgent need of shoes for distribution in West Bengal.,West Bengal,2024-11-18,Closed
+ngo29,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Gujarat.,Gujarat,2025-03-12,Open
+ngo29,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Gujarat.,Gujarat,2025-02-27,Open
+ngo30,Toys,We are in urgent need of toys for distribution in Delhi.,Delhi,2024-09-15,Closed
+ngo30,Food,We are in urgent need of food for distribution in Delhi.,Delhi,2025-03-30,Open
+ngo31,Books,We are in urgent need of books for distribution in Karnataka.,Karnataka,2024-11-09,Closed
+ngo31,Blankets,We are in urgent need of blankets for distribution in Karnataka.,Karnataka,2025-03-25,Open
+ngo32,Clothes,We are in urgent need of clothes for distribution in Rajasthan.,Rajasthan,2024-10-21,Closed
+ngo33,Shoes,We are in urgent need of shoes for distribution in Karnataka.,Karnataka,2025-03-02,Closed
+ngo33,Shoes,We are in urgent need of shoes for distribution in Karnataka.,Karnataka,2025-02-15,Open
+ngo34,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Gujarat.,Gujarat,2025-03-01,Closed
+ngo35,Books,We are in urgent need of books for distribution in Rajasthan.,Rajasthan,2024-08-25,Closed
+ngo35,Medicines,We are in urgent need of medicines for distribution in Rajasthan.,Rajasthan,2025-01-18,Open
+ngo36,Clothes,We are in urgent need of clothes for distribution in Uttar Pradesh.,Uttar Pradesh,2025-04-01,Open
+ngo37,Food,We are in urgent need of food for distribution in Karnataka.,Karnataka,2025-03-07,Closed
+ngo38,Food,We are in urgent need of food for distribution in Tamil Nadu.,Tamil Nadu,2024-12-04,Closed
+ngo38,Medicines,We are in urgent need of medicines for distribution in Tamil Nadu.,Tamil Nadu,2025-03-10,Open
+ngo39,Toys,We are in urgent need of toys for distribution in Maharashtra.,Maharashtra,2024-11-22,Closed
+ngo39,Blankets,We are in urgent need of blankets for distribution in Maharashtra.,Maharashtra,2025-01-17,Open
+ngo40,Books,We are in urgent need of books for distribution in Kerala.,Kerala,2025-03-15,Open
+ngo40,Blankets,We are in urgent need of blankets for distribution in Kerala.,Kerala,2025-03-05,Closed
+ngo41,Food,We are in urgent need of food for distribution in West Bengal.,West Bengal,2025-01-25,Open
+ngo42,Food,We are in urgent need of food for distribution in Karnataka.,Karnataka,2025-03-22,Open
+ngo42,Medicines,We are in urgent need of medicines for distribution in Karnataka.,Karnataka,2024-11-02,Closed
+ngo43,Clothes,We are in urgent need of clothes for distribution in Rajasthan.,Rajasthan,2025-01-30,Closed
+ngo43,Blankets,We are in urgent need of blankets for distribution in Rajasthan.,Rajasthan,2025-04-03,Open
+ngo44,Blankets,We are in urgent need of blankets for distribution in Maharashtra.,Maharashtra,2024-08-05,Closed
+ngo45,Shoes,We are in urgent need of shoes for distribution in Tamil Nadu.,Tamil Nadu,2025-02-10,Closed
+ngo45,Blankets,We are in urgent need of blankets for distribution in Tamil Nadu.,Tamil Nadu,2024-12-03,Open
+ngo46,Clothes,We are in urgent need of clothes for distribution in Kerala.,Kerala,2025-03-20,Closed
+ngo47,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Karnataka.,Karnataka,2025-03-29,Open
+ngo47,Clothes,We are in urgent need of clothes for distribution in Karnataka.,Karnataka,2025-01-25,Closed
+ngo48,Books,We are in urgent need of books for distribution in Delhi.,Delhi,2025-02-28,Open
+ngo48,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Delhi.,Delhi,2025-03-10,Open
+ngo49,Medicines,We are in urgent need of medicines for distribution in Delhi.,Delhi,2024-12-12,Closed
+ngo49,Medicines,We are in urgent need of medicines for distribution in Delhi.,Delhi,2025-03-27,Open
+ngo50,Medicines,We are in urgent need of medicines for distribution in Punjab.,Punjab,2025-03-03,Closed
+ngo25,Clothings for kids in our orphanage,As winters are approaching so woolen clothes are preferable. Kids are aged between 3-20 yrs. Other regular need items are also acceptable.,Uttar Pradesh,2024-10-11,Open
+ngo51,Books,We are in urgent need of books for distribution in Maharashtra.,Maharashtra,2024-08-20,Closed
+ngo52,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Kerala.,Kerala,2025-03-12,Open
+ngo53,Food,We are in urgent need of food for distribution in Bihar.,Bihar,2025-01-02,Closed
+ngo54,Shoes,We are in urgent need of shoes for distribution in Delhi.,Delhi,2025-02-20,Open
+ngo55,Medicines,We are in urgent need of medicines for distribution in Jammu & Kashmir.,Jammu & Kashmir,2024-09-18,Closed
+ngo56,Clothes,We are in urgent need of clothes for distribution in Tamil Nadu.,Tamil Nadu,2024-11-10,Closed
+ngo57,Blankets,We are in urgent need of blankets for distribution in Punjab.,Punjab,2025-02-28,Open
+ngo58,Books,We are in urgent need of books for distribution in Goa.,Goa,2024-08-25,Closed
+ngo59,Sanitary Pads,We are in urgent need of sanitary pads for distribution in Uttar Pradesh.,Uttar Pradesh,2024-11-11,Closed
+ngo60,Medicines,We are in urgent need of medicines for distribution in Bihar.,Bihar,2025-03-03,Open
